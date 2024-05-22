@@ -1,0 +1,385 @@
+{
+    "material_impact": [
+        {
+            "Material": "Cotton textile",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Cotton textile - organic",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Polyester",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Silk",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Silk - organic",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Wool",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Wool - organic",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Linen",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Linen - organic",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Rayon",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Nylon",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Spandex ",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Acrylic",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Denim",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Leather",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Suede",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Bamboo",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Bamboo - organic",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Tencel / Lyocell",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "Material": "Cashmere",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        }
+    ],
+    "transport_logistics": [
+        {
+            "To_region": "Asia",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "To_region": "Africa",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "To_region": "North America",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "To_region": "South America",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "To_region": "Europe",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        },
+        {
+            "To_region": "Australia",
+            "Asia": 1,
+            "Africa": 1,
+            "North America": 1,
+            "South America": 1,
+            "Europe": 1,
+            "Australia": 1
+        }
+    ],
+    "weight_of_product": [
+        {
+            "ClothesType": "Shirt, top, blouse",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "Dress",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "Tees and tank",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "Sweater",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "Jeans",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "Pants",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "Skirts",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "Coats and jackets",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "Shorts",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "Active pants",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "Active tops",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "Swearshirt and fleece",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "One piece",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "Swimwear",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        },
+        {
+            "ClothesType": "Blazer",
+            "XS": 1,
+            "S": 1,
+            "M": 1,
+            "L": 1,
+            "XL": 1,
+            "XXL": 1
+        }
+    ],
+    "end_of_life": [
+        {
+            "Landfill": 1
+        },
+        {
+            "Incineration": 1
+        }
+    ]
+}
