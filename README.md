@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository provides example resources to help you understand how to work with API data for calculating the CO2 impact of different materials and logistics. The example data is anonymized for privacy.
+This repository provides the data structure (object and array names) in JSON format, along with front-end templates. These resources are designed to help you understand how to work with API data for calculating the CO2 impact of different clothing items. The example data is anonymized for security reasons.
 
 ## Files in This Repository
 
