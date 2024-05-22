@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input CO2 Calculation Data</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            width: 400px; /* Fixed width */
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        form {
+            text-align: left; /* Align form elements to the left */
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+        select, input[type="submit"] {
+            width: calc(100% - 20px); /* Adjusted width */
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+        input[type="submit"] {
+            background-color: #C9DAFF;
+            color: #fff;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        input[type="submit"]:hover {
+            background-color: #2066ff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Insert product information</h1>
+        <form method="post">
+            <label for="material">Material:</label>
+            <select name="material" id="material">
+                <option value="Cotton textile">Cotton textile</option>
+                <option value="Cotton textile - organic">Cotton textile - organic</option>
+                <option value="Polyester">Polyester</option>
+                <option value="Silk">Silk</option>
+                <option value="Silk - organic">Silk - organic (no impact data)</option>
+                <option value="Wool">Wool</option>
+                <option value="Wool - organic">Wool - organic (no impact data)</option>
+                <option value="Linen">Linen</option>
+                <option value="Linen - organic">Linen - organic (no impact data)</option>
+                <option value="Rayon">Rayon</option>
+                <option value="Nylon">Nylon</option>
+                <option value="Spandex">Spandex</option>
+                <option value="Acrylic">Acrylic</option>
+                <option value="Denim">Denim</option>
+                <option value="Leather">Leather</option>
+                <option value="Suede">Suede (no impact data)</option>
+                <option value="Bamboo">Bamboo</option>
+                <option value="Bamboo - organic">Bamboo - organic (no impact data)</option>
+                <option value="Tencel / Lyocell">Tencel / Lyocell</option>
+                <option value="Cashmere">Cashmere (no impact data)</option>
+            </select><br>
+
+            <label for="from_region">From Region:</label>
+            <select name="from_region" id="from_region">
+                <option value="Asia">Asia</option>
+                <option value="Africa">Africa</option>
+                <option value="North America">North America</option>
+                <option value="South America">South America</option>
+                <option value="Europe">Europe</option>
+                <option value="Australia">Australia</option>
+            </select><br>
+
+            <label for="clothes_type">Clothes Type:</label>
+            <select name="clothes_type" id="clothes_type">
+                <option value="Shirt, top, blouse">Shirt, top, blouse</option>
+                <option value="Dress">Dress</option>
+                <option value="Tees and tank">Tees and tank</option>
+                <option value="Sweater">Sweater</option>
+                <option value="Jeans">Jeans</option>
+                <option value="Pants">Pants</option>
+                <option value="Skirts">Skirts</option>
+                <option value="Coats and jackets">Coats and jackets</option>
+                <option value="Shorts">Shorts</option>
+                <option value="Active pants">Active pants</option>
+                <option value="Active tops">Active tops</option>
+                <option value="Swearshirt and fleece">Swearshirt and fleece</option>
+                <option value="One piece">One piece</option>
+                <option value="Swimwear">Swimwear</option>
+                <option value="Blazer">Blazer</option>
+            </select><br>
+
+            <label for="size">Size:</label>
+            <select name="size" id="size">
+                <option value="XS">XS</option>
+                <option value="S">S</option>
+                <option value="M">M</option>
+                <option value="L">L</option>
+                <option value="XL">XL</option>
+                <option value="XXL">XXL</option>
+            </select><br>
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+</html>
