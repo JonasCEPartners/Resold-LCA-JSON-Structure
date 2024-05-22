@@ -18,8 +18,6 @@ The JSON file contains example data with anonymized values. To view the data:
 
 - **GitHub Repository URL:** [combined_resold.copy.json](./combined_resold.copy.json)
 
-All values has been replaced with "1" for security reasons.
-
 ### Using the HTML Templates
 
 The HTML templates provided in this repository can be used to input and display CO2 calculation data.
