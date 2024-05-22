@@ -24,7 +24,7 @@ The HTML templates provided in this repository can be used to input and display 
 
 #### Input Form Template
 
-The `input_form_template.html` file contains a form for users to input product information such as material, region, and size.
+The `input_form_template.html` file contains a form for users to input product information such as Type, material, region, and size.
 
 - **File URL:** [input_form_template.html](./input_form_template.html)
 
